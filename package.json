@@ -29,7 +29,8 @@
     "deploy": "firebase deploy",
     "eject": "react-scripts eject",
     "lint": "eslint ./src",
-    "format": "prettier --write \"**/*.+(ts|tsx|js|json|css)\""
+    "format": "prettier --write \"**/*.+(ts|tsx|js|json|css)\"",
+    "cypress:tests":"npx cypress run --record --key 69101dc1-1841-4df6-a9c1-a625bdbba6d7"
   },
   "jest": {
     "collectCoverageFrom": [
