@@ -1,0 +1,12 @@
+{
+  "sizes":
+    {
+    "xs": ":nth-child(2) > label > .checkmark",
+    "s": ":nth-child(3) > label > .checkmark",
+    "m": ":nth-child(4) > label > .checkmark",
+    "ml":":nth-child(5) > label > .checkmark",
+    "l":":nth-child(6) > label > .checkmark",
+    "xl":":nth-child(7) > label > .checkmark",
+    "xxl":":nth-child(8) > label > .checkmark"
+  }
+}
